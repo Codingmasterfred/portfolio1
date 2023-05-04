@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 Hello, my name is Fredrick Gentry. I am someone who is all about self improvement and growth no matter what it is pertaining to.Currently chasing my dream to become a Web Developer.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,107 +11,102 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "dragon",
+        "startDate": "2023",
+        "description": "This project is my first project using React.js. The website displays different beasts based on an array of objects with various properties. The data is displayed using a card element from React-Bootstrap. Additionally, the project includes a selected beast component that displays the details of a specific beast, such as its title, description, and number of horns. The number of horns can be used to filter the array of objects and display only the beasts with the selected number of horns. A form component is used as a search tool to facilitate this feature.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/dragon/Default.png",
+          "images/portfolio/dragon/1Horn.png",
+          "images/portfolio/dragon/100Horns.png"
         ],
-        "url": "",
+        "url": "https://shimmering-fenglisu-98c134.netlify.app/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
             "name": "React"
           },
           {
-            "class": "devicon-javascript-plain",
+            "class": "devicon-typescript-plain",
             "name": "JavaScript"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Odd-ducks-products",
+        "startDate": "2023",
+        "description": "The primary objective of this website was to design and implement an algorithm that could track and analyze product statistics, specifically by generating three random images of each product and ensuring that no product image would be displayed twice. The purpose of this was to determine which products were most viewed and clicked on, as well as which ones received the most votes.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/Odd-ducks-products/Homepage.png",
+          "images/portfolio/Odd-ducks-products/Result.png",
+          "images/portfolio/Odd-ducks-products/ResultGraph.png"
         ],
-        "url": "https://github.com",
+        "url": "https://codingmasterfred.github.io/Odd-Duck-Product-Co/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Recreating Connect 4 ",
+        "startDate": "2023",
+        "description": "This project was a collaborative effort between myself and my partner Jared, aimed at enhancing our object-oriented programming skills and incorporating basic animation techniques. The goal was to create a project that could showcase our proficiency in these areas, and also demonstrate our ability to work effectively as a team.",
+        "images": [
+          "images/portfolio/Connect4/Player1 Wins.png",
+          "images/portfolio/Connect4/Player2 Wins.png"
+        ],
+        "url": "https://jaredplummer5.github.io/TeamProject/Connect4.html",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "JavaScript"
           },
           {
             "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "HTML"
           },
           {
             "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "CSS"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Collective",
+        "title": "Intern",
+        "years": "01.2023 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "javascript"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "React",
+          "GitHub",
+          "Javascript",
+          "Netify"
         ]
       },
       {
-        "company": "Serros Solutions",
+        "company": "Persevere",
         "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "years": "09.2022 - 11.2022",
         "mainTech": [
-          "Angular 7/8"
+          "HTML/CSS"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "CSS",
+          "HTML",
+          "VS Code"
         ]
       }
     ]
